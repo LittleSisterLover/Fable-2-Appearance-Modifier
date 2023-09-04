@@ -14,7 +14,7 @@ This mod will NOT address Xenia's black character bug nor allow for character cu
 By having texture morphs disabled, visual changes such as will lines and skin tone from alignments will not function. However, changes which affect your mesh rather than textures (such as bulk and height) will, and this mod can be used to give more control over that.
 
 # Installation
-Installation will only be possible through an XEX version of the game. If you have the game in GOD or ISO format, utilities exist online to convert it to an XEX.
+Installation will only be possible through an XEX version of the game. If you have the game in GOD or ISO format, utilities exist online to convert it to XEX.
 
 Within your game folder, find data\gamescripts_r.bnk. Rename this file to "gamescripts_r_o.bnk". This serves as your backup in case you wish to uninstall the mod at a later date.
 
