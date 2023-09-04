@@ -97,7 +97,7 @@ Each function has above it a small description of the effects of that aspect on 
 
 Be careful with this file, these functions are pieces of code that run following every load screen, inappropriate alterations may result in game crashes.
 
-You may occasionally see visuals on your character that are not in accordance with your settings, these should be fixed by traveling through a load screen. See the "Limitations" section below.
+You may occasionally see visuals on your character that are not in accordance with your settings, these should be fixed by traveling through a load screen. See the [Limitations](#limitations) section below.
 
 # Uninstallation
 
