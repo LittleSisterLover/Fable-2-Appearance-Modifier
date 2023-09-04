@@ -97,7 +97,7 @@ Each function has above it a small description of the effects of that aspect on 
 
 Be careful with this file, these functions are pieces of code that run following every load screen, inappropriate alterations may result in game crashes.
 
-You may occasionally see visuals on your character that are not in accordance with your settings, these should be fixed by traveling through a load screen. See the "[Limitations](# limitations)" section below.
+You may occasionally see visuals on your character that are not in accordance with your settings, these should be fixed by traveling through a load screen. See the "[Limitations](#-limitations)" section below.
 
 # Uninstallation
 
@@ -124,6 +124,6 @@ It would be possible to instead have this script run every few seconds, which wo
 My primary goal was to remove will lines from my character; I want to use magic, but not at the cost of being ugly. I've added the other functions and released this mod for those with similar issues but not necessarily the skillset to address it.
 
 # Credits
-I primarily credit Guy/JustSomeGuy1234's for this mod. Above all else, the time save of his creation and assemblage of tools to access the game's internals, as well as his video describing their use, is likely the main reason it happened. I highly recommend the video to anyone interested in modifying Fable 2:
+I primarily credit Guy/JustSomeGuy1234's for this mod. Above all else, the time save of his creation and assemblage of tools to access the game's internals, as well as his video describing their use, is likely the main reason this happened. I highly recommend the video to anyone interested in modifying Fable 2:
 
 https://youtu.be/Gvi9v9_c6KY?si=KrDl8bZAJSSIaBi9
