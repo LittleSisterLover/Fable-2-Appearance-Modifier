@@ -110,18 +110,22 @@ This mod should be safe to uninstall on existing saves, but as per the Disclaime
 # Limitations
 Our ability to alter Fable 2's functionality is somewhat limited. In most situations when a character does something that would alter their visuals, they're flagged for a "texture morph", which is applied following a load screen. This mod then morphs your character again following this, allowing for those changes to be overwritten by the mod script and your appearance be maintained.
 
-There are two primary cases where this is not true:
+There are three primary known cases where this is not true:
 
 - Mesh morphs. Mesh morphs are mainly things which affect your character's physical space, such as leveling "Accuracy", which makes your character taller. Mesh morphs occur instantly rather than following a load screen, and because the morph system is largely outside our control, there's little that can be done about this. If you have the related function enabled in the mod's script, then this physical change should be undone and your character will appear as expected following a load screen.
 
-- Quests. Occasionally quests have a trigger to regenerate your texture morphs for various visual effects. This may result in your will lines showing up suddenly, but as with mesh morphs, this should go away following the next load screen.
+- Quests. Occasionally quests have a trigger to regenerate your texture morphs for various visual effects, or switch texture morphs to update in real-time. This may result in your will lines showing up suddenly, but should go away following the next load screen.
+
+- Interactions. Things that alter alignment, such as giving gifts, are sometimes scripted to immediately trigger a texture morph.
+
+There may be other corcumstances I do not know of, but in large part the mod is able to maintain your chosen morphs.
 
 # How Does This Mod Work?
 This mod needs to consistently apply player preferences to their character in order to overwrite the changes done by the game's morph system. This is done by hijacking an internal AI setup script that runs following every load screen to direct "AM.lua" to run, then allows the AI script to perform its normal function. The mod functions themselves are internal debug functions left by the game developers for directly altering player stats, their main purpose being in random character generation functions and several presets that were used for playtesting or potentially promotional material. As far as I have been able to tell, at least for the three stat functions, there is no bearing on gameplay and these values exist purely for the morph system, meaning abilities should work as normal.
 
-It would be possible to instead have this script run every few seconds, which would reduce the visual impact of the limitations, but in my personal opinion this is a very small benefit for far higher interference.
+It would be possible to instead have this script run every few seconds, which would reduce the visual impact of the limitations, but constantly updating morphs in this fashion can have some weird visual and performance effects..
 
-My primary goal was to remove will lines from my character; I want to use magic, but not at the cost of being ugly. I've added the other functions and released this mod for those with similar issues but not necessarily the skillset to address it.
+My primary goal was to remove will lines from my character; I want to use magic, but not at the cost of being ugly. I've added the other functions and released this mod for those with similar issues but not necessarily the skillset to address it. I'm not entirely satisfied with the implementation, but did not see another way to make it work within the restrictions. If I find some way to make it work better or encounter a serious issue with the current system, I may update it to address that.
 
 # Credits
 I primarily credit Guy/JustSomeGuy1234 for this mod. Above all else, the time save of his creation and assemblage of tools to access the game's internals, as well as his video describing their use, is likely the main reason this happened. I highly recommend the video to anyone interested in modifying Fable 2:
