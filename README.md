@@ -18,7 +18,7 @@ Installation will only be possible through an XEX version of the game. If you ha
 
 Within your game folder, find data\gamescripts_r.bnk. Rename this file to "gamescripts_r_o.bnk". This serves as your backup in case you wish to uninstall the mod at a later date.
 
-Additionally, you may wish to backup data\dir.manifest in the same manner. The mod's alteration to this file is minimal and it can easily be undone with any text editor, so this is not strictly necessary.
+Additionally, you may wish to backup data\dir.manifest in the same manner. The mod's alteration to this file is minimal and can easily be undone with any text editor, so this is not strictly necessary.
 
 Drag and drop the "data" folder from the mod's download into your game folder. If you opted not to rename "dir.manifest" it will ask to overwrite it, be sure to allow this.
 
