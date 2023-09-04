@@ -124,6 +124,6 @@ It would be possible to instead have this script run every few seconds, which wo
 My primary goal was to remove will lines from my character; I want to use magic, but not at the cost of being ugly. I've added the other functions and released this mod for those with similar issues but not necessarily the skillset to address it.
 
 # Credits
-I primarily credit Guy/JustSomeGuy1234's for this mod. Above all else, the time save of his creation and assemblage of tools to access the game's internals, as well as his video describing their use, is likely the main reason this happened. I highly recommend the video to anyone interested in modifying Fable 2:
+I primarily credit Guy/JustSomeGuy1234 for this mod. Above all else, the time save of his creation and assemblage of tools to access the game's internals, as well as his video describing their use, is likely the main reason this happened. I highly recommend the video to anyone interested in modifying Fable 2:
 
 https://youtu.be/Gvi9v9_c6KY?si=KrDl8bZAJSSIaBi9
