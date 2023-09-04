@@ -125,7 +125,7 @@ This mod needs to consistently apply player preferences to their character in or
 
 It would be possible to instead have this script run every few seconds, which would reduce the visual impact of the limitations, but constantly updating morphs in this fashion can have some weird visual and performance effects..
 
-My primary goal was to remove will lines from my character; I want to use magic, but not at the cost of being ugly. I've added the other functions and released this mod for those with similar issues but not necessarily the skillset to address it. I'm not entirely satisfied with the implementation, but did not see another way to make it work within the restrictions. If I find some way to make it work better or encounter a serious issue with the current system, I may update it to address that.
+My primary goal was to remove will lines from my character; I want to use magic, but not at the cost of being ugly. I've added the other functions and released this mod for those with similar issues but not necessarily the skillset to address it. I'm not entirely satisfied with the implementation, but did not see another way to make it work within the restrictions. If I find something to that end or encounter a serious issue with the current system, I may update the mod to address that.
 
 # Credits
 I primarily credit Guy/JustSomeGuy1234 for this mod. Above all else, the time save of his creation and assemblage of tools to access the game's internals, as well as his video describing their use, is likely the main reason this happened. I highly recommend the video to anyone interested in modifying Fable 2:
