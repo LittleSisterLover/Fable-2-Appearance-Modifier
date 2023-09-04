@@ -126,4 +126,4 @@ My primary goal was to remove will lines from my character; I want to use magic,
 # Credits
 I primarily credit Guy/JustSomeGuy1234's for this mod. Above all else, the time save of his creation and assemblage of tools to access the game's internals, as well as his video describing their use, is likely the main reason it happened. I highly recommend the video to anyone interested in modifying Fable 2:
 
-[https://youtu.be/Gvi9v9_c6KY?si=KrDl8bZAJSSIaBi9]
+https://youtu.be/Gvi9v9_c6KY?si=KrDl8bZAJSSIaBi9
