@@ -20,7 +20,7 @@ Within your game folder, find data\gamescripts_r.bnk. Rename this file to "games
 
 Additionally, you may wish to backup data\dir.manifest in the same manner. The mod's alteration to this file is minimal and it can easily be undone with any text editor, so this is not strictly necessary.
 
-Drag and drop the "data" folder from the mod's download into your game folder. If you opted not to back up "dir.manifest" it will ask to overwrite it, be sure to allow this.
+Drag and drop the "data" folder from the mod's download into your game folder. If you opted not to rename "dir.manifest" it will ask to overwrite it, be sure to allow this.
 
 The mod should function as expected on existing saves, but as per the Disclaimer, you may wish to backup your save prior to installation. This can be done by opening your "content" folder within Xenia and making a copy of your "4D5307F1" folder.
 
