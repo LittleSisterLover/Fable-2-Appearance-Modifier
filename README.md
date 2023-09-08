@@ -118,7 +118,7 @@ There are three primary known cases where this is not true:
 
 - Interactions. Things that alter alignment, such as giving gifts, are sometimes scripted to immediately trigger a texture morph.
 
-There may be other corcumstances I do not know of, but in large part the mod is able to maintain your chosen morphs.
+There may be other circumstances I do not know of, but in large part the mod is able to maintain your chosen morphs.
 
 # How Does This Mod Work?
 This mod needs to consistently apply player preferences to their character in order to overwrite the changes done by the game's morph system. This is done by hijacking an internal AI setup script that runs following every load screen to direct "AM.lua" to run, then allows the AI script to perform its normal function. The mod functions themselves are internal debug functions left by the game developers for directly altering player stats, their main purpose being in random character generation functions and several presets that were used for playtesting or potentially promotional material. As far as I have been able to tell, at least for the three stat functions, there is no bearing on gameplay and these values exist purely for the morph system, meaning abilities should work as normal.
