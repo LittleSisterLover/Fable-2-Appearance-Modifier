@@ -3,7 +3,6 @@
 </br>
 </br>
 
-```
 [Overview](#overview)
 [Installation](#installation)
 [Mod Usage](#mod-usage)
@@ -11,7 +10,6 @@
 [Limitations](#limitations)
 [How Does This Mod Work?](#how-does-this-mod-work)
 [Credits](#credits)
-```
 
 </br>
 </br>
