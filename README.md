@@ -3,13 +3,13 @@
 </br>
 </br>
 
-[Overview](#overview)
-[Installation](#installation)
-[Mod Usage](#mod-usage)
-[Uninstallation](#uninstallation)
-[Limitations](#limitations)
-[How Does This Mod Work?](#how-does-this-mod-work)
-[Credits](#credits)
+[Overview](#overview) <br />
+[Installation](#installation) <br />
+[Mod Usage](#mod-usage) <br />
+[Uninstallation](#uninstallation) <br />
+[Limitations](#limitations) <br />
+[How Does This Mod Work?](#how-does-this-mod-work) <br />
+[Credits](#credits) <br />
 
 </br>
 </br>
