@@ -1,10 +1,23 @@
 # Disclaimer: Fable 2's internals are not well-known, documented, or completely accessible - I cannot guarantee the absence of some mechanic unknown to myself that may be adversely affected by this mod. Use of this is at your own discretion. Please read this page in its entirety to understand the mod's functions.
+</br>
+</br>
+</br>
+
+```
+[Overview](#overview)
+[Installation](#installation)
+[Mod Usage](#mod-usage)
+[Uninstallation](#uninstallation)
+[Limitations](#limitations)
+[How Does This Mod Work?](#how-does-this-mod-work)
+[Credits](#credits)
+```
 
 </br>
 </br>
 </br>
 
-# Fable 2 Appearance Modifier
+# Overview
 Fable 2 Appearance Modifier is an external script mod intended to allow players greater control over their character's appearance regardless of the ability investments they choose to make.
 
 This mod was developed using and is intended for playing the game through the Canary branch of the Xenia emulator with readback_resolve in use, though it should work on physical hardware provided you have a modded console.
