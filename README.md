@@ -1,7 +1,6 @@
 # Disclaimer: Fable 2's internals are not well-known, documented, or completely accessible - I cannot guarantee the absence of some mechanic unknown to myself that may be adversely affected by this mod. Use of this is at your own discretion. Please read this page in its entirety to understand the mod's functions.
 </br>
-</br>
-</br>
+
 
 [Overview](#overview) <br />
 [Installation](#installation) <br />
@@ -11,8 +10,6 @@
 [How Does This Mod Work?](#how-does-this-mod-work) <br />
 [Credits](#credits) <br />
 
-</br>
-</br>
 </br>
 
 # Overview
