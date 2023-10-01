@@ -8,7 +8,7 @@
 [Uninstallation](#uninstallation) <br />
 [Limitations](#limitations) <br />
 [How Does This Mod Work?](#how-does-this-mod-work) <br />
-[Credits](#credits) <br />
+[Credits](#credits)
 
 </br>
 
